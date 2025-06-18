@@ -1,0 +1,3 @@
+logo color: #02008F
+Linear Gradient colors : #0063FF, #FFC0CB
+ 
