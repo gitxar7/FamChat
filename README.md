@@ -244,9 +244,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Developer**: hssxar7(Ar7 Enterprise) - Abdur Rahman Hanas
+**Developer**: gitxar7 - Abdur Rahman Hanas
 **Email**: nxt.genar7@gmail.com
-**Project Link**: [https://github.com/hssxar7/FamChat](https://github.com/hssxar7/FamChat)
+**Project Link**: [https://github.com/gitxar7/FamChat](https://github.com/gitxar7/FamChat)
 
 ---
 
