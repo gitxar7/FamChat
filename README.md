@@ -1,12 +1,16 @@
+<div align="center">
+
 # FamChat - Real-Time Family Chat Application
 
 ![FamChat Logo](FamChatApp/assets/icon-text.png)
 
+</div>
+
 A modern, feature-rich real-time chat application built with React Native (Expo) and Java backend, designed to bring families closer together through seamless communication.
 
-## 🌟 Features
+## Features
 
-### 📱 Mobile App (React Native + Expo)
+### Mobile App (React Native + Expo)
 
 - **Real-time Messaging**: Instant message delivery with live status updates
 - **User Authentication**: Secure login/signup with mobile number verification
@@ -19,7 +23,7 @@ A modern, feature-rich real-time chat application built with React Native (Expo)
 - **Auto-refresh**: Real-time chat updates every second
 - **Responsive Design**: Optimized for both Android and iOS
 
-### 🖥️ Backend (Java + Hibernate)
+### Backend (Java + Hibernate)
 
 - **RESTful API**: Clean REST endpoints for all operations
 - **Hibernate ORM**: Robust database management with JPA
@@ -30,7 +34,7 @@ A modern, feature-rich real-time chat application built with React Native (Expo)
 - **Image Upload**: Profile picture storage and retrieval
 - **Real-time Updates**: Live data synchronization
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend (FamChatApp)
 
@@ -53,7 +57,7 @@ A modern, feature-rich real-time chat application built with React Native (Expo)
 - **C3P0** - Connection pooling
 - **Apache Ant** - Build automation
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -63,7 +67,7 @@ A modern, feature-rich real-time chat application built with React Native (Expo)
 - Android Studio / Xcode (for device testing)
 - Expo CLI
 
-### 📱 Frontend Setup
+### Frontend Setup
 
 1. **Clone the repository**
 
@@ -105,7 +109,7 @@ A modern, feature-rich real-time chat application built with React Native (Expo)
    npm run web
    ```
 
-### 🖥️ Backend Setup
+### Backend Setup
 
 1. **Navigate to backend directory**
 
@@ -127,16 +131,16 @@ A modern, feature-rich real-time chat application built with React Native (Expo)
    - Use Apache Ant to build: `ant clean build`
    - Deploy to Java application server (Tomcat, GlassFish, etc.)
 
-## 📱 App Screenshots & Features
+## App Screenshots & Features
 
-### 🔐 Authentication Flow
+### Authentication Flow
 
 - Secure mobile-based login system
 - Name auto-fetch on mobile number entry
 - Password visibility toggle
 - Account creation with validation
 
-### 💬 Chat Interface
+### Chat Interface
 
 - Real-time message synchronization
 - Online/offline status indicators
@@ -144,14 +148,14 @@ A modern, feature-rich real-time chat application built with React Native (Expo)
 - Smooth scrolling chat history
 - Image message support
 
-### 👤 Profile Management
+### Profile Management
 
 - Custom avatar upload
 - Profile information editing
 - Status management
 - Settings configuration
 
-## 🏗️ Architecture
+## Architecture
 
 ### Database Schema
 
@@ -176,7 +180,7 @@ MessageType (id, type)
 - `POST /DeleteMessage` - Delete message
 - `POST /SetOffline` - Update user status
 
-## 🔧 Configuration
+## Configuration
 
 ### Environment Variables
 
@@ -189,7 +193,7 @@ MessageType (id, type)
 - `babel.config.js`: Babel transpilation settings
 - `build.xml`: Ant build configuration
 
-## 🚀 Deployment
+## Deployment
 
 ### Mobile App
 
@@ -217,7 +221,7 @@ MessageType (id, type)
    - Configure database connection
    - Set up SSL certificates
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 - [ ] Group chat functionality
 - [ ] Voice messages
@@ -230,7 +234,7 @@ MessageType (id, type)
 - [ ] Dark mode theme
 - [ ] Multi-language support
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create feature branch (`git checkout -b feature/AmazingFeature`)
@@ -238,18 +242,18 @@ MessageType (id, type)
 4. Push to branch (`git push origin feature/AmazingFeature`)
 5. Open Pull Request
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📞 Contact
+## Contact
 
-**Developer**: gitxar7 - Abdur Rahman Hanas
+**Developer**: Abdur Rahman Hanas
 **Email**: nxt.genar7@gmail.com
 **Project Link**: [https://github.com/gitxar7/FamChat](https://github.com/gitxar7/FamChat)
 
 ---
 
-⭐ **Star this repository if you found it helpful!**
+**Star this repository if you found it helpful!**
 
-Built with ❤️ for bringing families together through technology.
+Built with love for bringing families together through technology.
