@@ -68,7 +68,7 @@ A modern, feature-rich real-time chat application built with React Native (Expo)
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/hssxar7/FamChat.git
+   git clone https://github.com/gitxar7/FamChat.git
    cd FamChat/FamChatApp
    ```
 
